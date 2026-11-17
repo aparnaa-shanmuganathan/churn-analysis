@@ -1,0 +1,7 @@
+.git
+archive
+powerbi
+docs
+tests
+**/__pycache__
+.venv
